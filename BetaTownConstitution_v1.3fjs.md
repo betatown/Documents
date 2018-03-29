@@ -20,7 +20,6 @@ Beta Town shall be a referendum-based society. The legislative function rests so
 
 For a new law to pass, the law must comply with Article 1 and be verified by Guld. Further, to be enacted and incorporated into the official Beta Town blocktree branch, 75% of the citizens must approve. There shall be 30 days from time of passage to the time of implementation for citizens to challenge the law with the Supreme Court. Any challenge to a law shall toll the implementation until such time as the law may be reviewed and ruled upon as complying with this constitution. 
 
-
 ### Article 5. Judiciary
 
 The judicial power of Beta Town shall be vested in one supreme court and such inferior courts created from time to time. The supreme court is the highest court with appellate authority over all other courts in Beta Town. The supreme court shall be autonomous and independent from any other entity or authority, and shall have the power to bind Guld to modify the blocktree code to alter the legal construct of laws, or distribute funds to enforce judgments. Rulings of the supreme court shall be universally binding, effective, and final. 
@@ -31,7 +30,7 @@ The judicial power shall extend to all cases in law and equity arising under thi
 
 All cases or controversies exceeding $75,000 shall be by trial by jury. All matters below $75,000 shall be subject to determination by an inferior bench trial, or empaneled arbitral proceeding. 
 
-The Supreme Court may, sue sponte, empanel to determine the constitutionality or legality of any law in Beta Town. 
+The Supreme Court may, sua sponte, empanel to determine the constitutionality or legality of any law in Beta Town. 
 
 ### Article 6: Financial Matters
 
@@ -59,3 +58,4 @@ All persons and associations have the right to participate in the political proc
 All persons, over the age of 18, have the right to vote and to present matters for referendum.
 
 All persons who freely, or by action or expression  knowingly, engage in commerce with, enjoy the benefits and protections of, or directly or indirectly  participate in Beta Town agree to be bound by this constitution, and if found to have violated any portion, may be subject to penalty or expulsion, or both, from Beta Town by the Supreme Court.
+
