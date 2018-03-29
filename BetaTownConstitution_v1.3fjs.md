@@ -58,4 +58,4 @@ All persons and associations have the right to participate in the political proc
 
 All persons, over the age of 18, have the right to vote and to present matters for referendum.
 
-All persons freely and participating in Beta Town agree to be bound by this constitution, and if found to have violated any portion, may be subject to penalty or expulsion, or both, from Beta Town by the Supreme Court.
+All persons who freely, or by action or expression  knowingly, engage in commerce with, enjoy the benefits and protections of, or directly or indirectly  participate in Beta Town agree to be bound by this constitution, and if found to have violated any portion, may be subject to penalty or expulsion, or both, from Beta Town by the Supreme Court.
